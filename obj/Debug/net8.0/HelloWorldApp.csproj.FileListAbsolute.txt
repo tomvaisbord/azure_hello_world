@@ -1,0 +1,14 @@
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/home/tom1989/Desktop/azure/hello_world/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
